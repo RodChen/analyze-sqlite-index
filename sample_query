@@ -1,0 +1,2 @@
+SELECT * FROM user WHERE name='alex'
+SELECT * FROM user WHERE gender='male'
